@@ -1,0 +1,9 @@
+{
+  "GroundWidth": 1920,
+  "GroundHeight": 1600,
+  "RowCount": 4,
+  "ColumnCount": 5,
+  "FFmpegPath": "D:\\Software\\Tools\\FFmpeg\\bin\\ffmpeg.exe",
+  "InputVideo": "C:\\Users\\Teloi\\Desktop\\input\\1.mp4",
+  "OutputPath": "C:\\Users\\Teloi\\Desktop\\output\\"
+}
