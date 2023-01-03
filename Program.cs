@@ -20,9 +20,9 @@ namespace FFmpeg_Thumbnail
         private static readonly string OUTPUT_TEMP_NAME = "-thumb-temp";
         private static readonly string OUTPUT_EXT = ".jpg";
 
-        public static async Task Main(string[] args)
+        public static void Main(string[] args)
         {
-            await TransformVideo();
+            TransformVideo().GetAwaiter().GetResult();
         }
 
         public static async Task<bool> TransformVideo()
