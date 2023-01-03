@@ -6,7 +6,6 @@ Making movie thumbnails using ffmpeg
 ```
 FFmpeg
 NET Framework 4.6.1
-
 ```
 
 - Notice
